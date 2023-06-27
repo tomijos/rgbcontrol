@@ -15,8 +15,8 @@
     }
     .contPrincipal{
 
-        width: 20vw;
-        max-width: 320px;
+        
+        max-width: 720px;
         min-height: 250px;
         margin: 0 auto;
         display: flex;
@@ -43,6 +43,10 @@
     }
     label, p{
         margin: 10px;
+    }
+    #resultado{
+        
+        font-size: 13px;
     }
     .footer{
         font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
